@@ -1,3 +1,9 @@
+File "/mount/src/cos-2205/streamlit_app.py", line 1, in <module>
+    st.markdown("*Streamlit* is **really** ***cool***.")
+    ^^
+
+
+
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
