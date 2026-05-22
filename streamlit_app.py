@@ -1,6 +1,7 @@
 File "/mount/src/cos-2205/streamlit_app.py", line 1
-  File "/mount/src/cos-2205/streamlit_app.py", line 1, in <module>
+  File "/mount/src/cos-2205/streamlit_app.py", line 1
        ^
+
 
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
